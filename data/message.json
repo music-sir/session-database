@@ -1,5 +1,5 @@
 {
-    "text": "your session is {pass}",
-    "footer": "please wait 1 minute after scanning",
+    "text": "SESSION_ID :\n{pass}",
+    "footer": "please wait 1 minute after scanning\n©Hermit_Ser",
     "group": "https://chat.whatsapp.com/FoW6N9j6WymJLTnOyFvbu2"
 }
