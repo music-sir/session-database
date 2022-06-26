@@ -1,0 +1,5 @@
+{
+    "database_url": "postgres://idogbcjogjhiah:07d6858e054460e955579f493423a7bb4b0e094952b4222843aaeffb6e56eefc@ec2-34-200-35-222.compute-1.amazonaws.com:5432/dc0qgssfe827oo",
+    "text": "your session is {pass}",
+    "footer": "please wait 1 minute after scanning"
+}
